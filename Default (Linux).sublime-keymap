@@ -1,0 +1,26 @@
+[
+{
+  "keys": ["ctrl+alt+shift+g"],
+  "command": "diffscuss_generate"
+},
+{
+  "keys": ["ctrl+alt+shift+c"],
+  "command": "make_comment"
+},
+{
+  "keys": ["ctrl+alt+shift+n"],
+  "command": "find_next_comment"
+},
+{
+  "keys": ["ctrl+alt+shift+d"],
+  "command": "mailbox_done"
+},
+{
+  "keys": ["ctrl+alt+shift+p"],
+  "command": "mailbox_post"
+},
+{
+  "keys": ["ctrl+alt+shift+s"],
+  "command": "show_local_source"
+}
+]
